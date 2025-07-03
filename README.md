@@ -1,9 +1,6 @@
 # CS50-AI
-A collection of all projects completed as part of Harvard’s CS50’s Introduction to Artificial Intelligence with Python. This repository showcases hands-on implementations of core AI concepts including search algorithms, knowledge representation, inference, probability, and machine learning.
 
-# CS50 AI Projects Repository
-
-Welcome to my repository for **Harvard’s CS50's Introduction to Artificial Intelligence with Python**. This course explores the foundational concepts and practical implementations of Artificial Intelligence, and this repo contains all the projects and problem sets I completed throughout the course.
+Welcome to my repository for Harvard’s CS50’s Introduction to Artificial Intelligence with Python. This collection features all the projects and problem sets I completed as part of the course. It showcases hands-on implementations of core AI concepts, including search algorithms, knowledge representation, inference, probability, and machine learning. The course explores foundational theories and practical applications of Artificial Intelligence using Python.
 
 ## About the Course
 CS50’s AI course dives into:
